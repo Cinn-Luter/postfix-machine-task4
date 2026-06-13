@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 output.txt
 empty_test.txt
+tests.py
